@@ -5,6 +5,11 @@ app_description = "Ride Management"
 app_email = "namanalways@gmail.com"
 app_license = "mit"
 
+fixtures = [{"dt": "Ride Booking"},
+            {"dt": "Vehicle Ride"},
+            {"dt": "Customer"},
+            {"dt": "Item"},
+            {"dt": "Contact"}]
 # Apps
 # ------------------
 

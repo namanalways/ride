@@ -1,0 +1,118 @@
+[
+ {
+  "address": null,
+  "company_name": null,
+  "department": null,
+  "designation": null,
+  "docstatus": 0,
+  "doctype": "Contact",
+  "email_id": "naman@naman.com",
+  "email_ids": [
+   {
+    "email_id": "naman@naman.com",
+    "is_primary": 1
+   }
+  ],
+  "first_name": "Naman",
+  "full_name": "Naman",
+  "gender": null,
+  "google_contacts": null,
+  "google_contacts_id": null,
+  "image": "",
+  "is_primary_contact": 0,
+  "last_name": "",
+  "links": [],
+  "middle_name": null,
+  "mobile_no": "",
+  "modified": "2025-07-03 13:12:52.878548",
+  "name": "Naman",
+  "phone": "",
+  "phone_nos": [],
+  "pulled_from_google_contacts": 0,
+  "salutation": null,
+  "status": "Passive",
+  "sync_with_google_contacts": 0,
+  "unsubscribed": 0,
+  "user": "naman@naman.com"
+ },
+ {
+  "address": null,
+  "company_name": null,
+  "department": null,
+  "designation": null,
+  "docstatus": 0,
+  "doctype": "Contact",
+  "email_id": "",
+  "email_ids": [],
+  "first_name": null,
+  "full_name": "",
+  "gender": null,
+  "google_contacts": null,
+  "google_contacts_id": null,
+  "image": null,
+  "is_primary_contact": 1,
+  "last_name": null,
+  "links": [
+   {
+    "link_doctype": "Customer",
+    "link_name": "Customer 1",
+    "link_title": "Customer 1"
+   }
+  ],
+  "middle_name": null,
+  "mobile_no": "9876543210",
+  "modified": "2025-07-03 13:52:00.306867",
+  "name": "-Customer 1",
+  "phone": "9876543210",
+  "phone_nos": [
+   {
+    "is_primary_mobile_no": 1,
+    "is_primary_phone": 1,
+    "phone": "9876543210"
+   }
+  ],
+  "pulled_from_google_contacts": 0,
+  "salutation": null,
+  "status": "Passive",
+  "sync_with_google_contacts": 0,
+  "unsubscribed": 0,
+  "user": null
+ },
+ {
+  "address": null,
+  "company_name": null,
+  "department": null,
+  "designation": null,
+  "docstatus": 0,
+  "doctype": "Contact",
+  "email_id": "",
+  "email_ids": [],
+  "first_name": null,
+  "full_name": "",
+  "gender": null,
+  "google_contacts": null,
+  "google_contacts_id": null,
+  "image": null,
+  "is_primary_contact": 0,
+  "last_name": null,
+  "links": [],
+  "middle_name": null,
+  "mobile_no": "",
+  "modified": "2025-07-03 13:50:33.929162",
+  "name": "p9jmpoiqhi",
+  "phone": "",
+  "phone_nos": [
+   {
+    "is_primary_mobile_no": 0,
+    "is_primary_phone": 0,
+    "phone": "9876543210"
+   }
+  ],
+  "pulled_from_google_contacts": 0,
+  "salutation": null,
+  "status": "Passive",
+  "sync_with_google_contacts": 0,
+  "unsubscribed": 0,
+  "user": null
+ }
+]

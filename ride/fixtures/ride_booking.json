@@ -1,0 +1,75 @@
+[
+ {
+  "booking_date": "2025-07-01",
+  "customer": "Customer 1",
+  "customer_name": "Customer 1",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 10.0,
+  "make": "Maruti suzuki",
+  "modified": "2025-07-03 13:57:39.606672",
+  "name": "MS-H-25-0001",
+  "phone_no": "9876543210",
+  "price_per_km": 10.0,
+  "return_date": "2025-07-03",
+  "services": [
+   {
+    "amount": 1500.0,
+    "service": "Tourist Guides"
+   },
+   {
+    "amount": 500.0,
+    "service": "Wi-Fi Access"
+   }
+  ],
+  "total_amount": 2100.0,
+  "type": "Hatchback",
+  "vehicle": "MS-H"
+ },
+ {
+  "booking_date": "2025-07-02",
+  "customer": "Customer 1",
+  "customer_name": "Customer 1",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 100.0,
+  "make": "Hyundai",
+  "modified": "2025-07-03 13:58:08.287307",
+  "name": "Hyundai-S-25-0002",
+  "phone_no": "9876543210",
+  "price_per_km": 12.0,
+  "return_date": "2025-07-06",
+  "services": [
+   {
+    "amount": 500.0,
+    "service": "Wi-Fi Access"
+   }
+  ],
+  "total_amount": 1700.0,
+  "type": "Saloon",
+  "vehicle": "Hyundai-S"
+ },
+ {
+  "booking_date": "2025-07-03",
+  "customer": "Customer 2",
+  "customer_name": "Customer 2",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 50.0,
+  "make": "Toyota",
+  "modified": "2025-07-03 13:58:33.213748",
+  "name": "Toyota-MPV-25-0003",
+  "phone_no": null,
+  "price_per_km": 15.0,
+  "return_date": "2025-07-05",
+  "services": [
+   {
+    "amount": 1500.0,
+    "service": "Tourist Guides"
+   }
+  ],
+  "total_amount": 2250.0,
+  "type": "MPV",
+  "vehicle": "Toyota-MPV"
+ }
+]

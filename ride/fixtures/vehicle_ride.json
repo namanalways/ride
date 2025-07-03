@@ -1,0 +1,32 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/files/hyundai.jpeg",
+  "make": "Hyundai",
+  "modified": "2025-07-03 13:31:48.218563",
+  "name": "Hyundai-S",
+  "price_per_km": 12.0,
+  "type": "Saloon"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/files/toyota.jpg",
+  "make": "Toyota",
+  "modified": "2025-07-03 13:32:53.061167",
+  "name": "Toyota-MPV",
+  "price_per_km": 15.0,
+  "type": "MPV"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "https://imgd.aeplcdn.com/227x128/n/cw/ec/107543/brezza-exterior-right-front-three-quarter-9.jpeg?isig=0&q=80",
+  "make": "Maruti suzuki",
+  "modified": "2025-07-03 13:30:09.752984",
+  "name": "MS-H",
+  "price_per_km": 10.0,
+  "type": "Hatchback"
+ }
+]
